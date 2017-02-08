@@ -1,0 +1,6 @@
+"C:\Program Files\Arduino\libraries\DHT\DHT.cpp" 31/01/2017 14:16:30,31 
+"C:\Program Files\Arduino\libraries\DHT\DHT.h" 31/01/2017 14:16:30,31 
+"C:\Program Files\Arduino\libraries\DHT\README.txt" 31/01/2017 14:16:30,31 
+"C:\Program Files\Arduino\libraries\DHT\DHT.cpp" 31/01/2017 14:17:29,89 
+"C:\Program Files\Arduino\libraries\DHT\DHT.h" 31/01/2017 14:17:29,89 
+"C:\Program Files\Arduino\libraries\DHT\README.txt" 31/01/2017 14:17:29,89 

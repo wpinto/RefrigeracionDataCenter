@@ -1,0 +1,2 @@
+"C:\Program Files\Arduino\libraries\DHT\examples\DHTtester\DHTtester.ino" 31/01/2017 14:16:30,31 
+"C:\Program Files\Arduino\libraries\DHT\examples\DHTtester\DHTtester.ino" 31/01/2017 14:17:29,89 
